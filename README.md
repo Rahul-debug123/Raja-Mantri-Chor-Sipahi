@@ -1,4 +1,4 @@
-#Files are in master branch
+# Files are in master branch
 ## Raja-Mantri-Chor-Sipahi
 How to run this game:
 1) Clone this repo: `git clone URL`
