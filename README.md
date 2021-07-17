@@ -15,23 +15,15 @@ How to run this game:
 6) The palyer which is assigned as 'Sipahi' will get two option to choose the user which is 'Chor', the two option is corresponds to 'Mantri' and 'Chor'.
 7) If 'Sipahi' would have correct guess then, corresponding players will get the points as:
       |Player with role|Score|
-      |----------------|-----|
       |Raja            |1000 |
-      |----------------|-----|
       |Mantri          |800  |
-      |----------------|-----|
       |Sipahi          |500  |
-      |----------------|-----|
       |Chor            |0    |
 8) If 'Sipahi' have inccorect guess then, the points will be provided as :
       |Player with role|Score|
-      |----------------|-----|
       |Raja            |1000 |
-      |----------------|-----|
       |Mantri          |800  |
-      |----------------|-----|
       |Sipahi          |0    |
-      |----------------|-----|
       |Chor            |500  |
 9) As the guess work finish (mean user with 'Sipahi' role has clicked the radio button), then next round will automatically start.
 10) In between, if any player disconnect him/her self, then game will be terminated and it will demand more player to connect (Because exacly 4 player is required)
