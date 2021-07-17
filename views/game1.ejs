@@ -1,0 +1,37 @@
+
+<html>
+    <head>
+      <title>rahul kumar</title>
+        <link rel="stylesheet" href="public/style/g1_style.css">
+    </head>
+    <script src = "/socket.io/socket.io.js"></script>
+   
+    <script>
+       var socket = io();
+    </script>
+<body>
+  <div class="view">
+    <span class="slice" id="one"></span>
+    <span class="slice" id="two"></span>
+    <span class="slice" id="three"></span>
+    <span class="shadow"></span>
+    <div class="content">
+    <p id="demo"></p>
+    <p id="role"></p>
+
+      <div id="for_police" style = "display:none">
+      <label for="culprit1" id="cul1">
+      </label>
+      <input type="radio" id="culprit1" name="culprit" value="0" onclick="show_result(0)">
+
+
+      <label for="culprit2" id="cul2">
+      </label>
+      <input type="radio" id="culprit2" name="culprit" value="1" onclick="show_result(1)"">
+      </div>
+    </div>
+
+<script src="public/script/g1_main.js"> </script>
+ </div>
+</body>
+</html>
