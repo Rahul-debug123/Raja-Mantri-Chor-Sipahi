@@ -1,4 +1,5 @@
-# Raja-Mantri-Chor-Sipahi
+#Files are in master branch
+## Raja-Mantri-Chor-Sipahi
 How to run this game:
 1) Clone this repo: `git clone URL`
 2) Install and update the dependencies `npm install` and `npm update`
